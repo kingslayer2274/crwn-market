@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/crwn-market/static/css/main.5149d924.chunk.css",
-    "main.js": "/crwn-market/static/js/main.393a192a.chunk.js",
-    "main.js.map": "/crwn-market/static/js/main.393a192a.chunk.js.map",
-    "runtime-main.js": "/crwn-market/static/js/runtime-main.8f886f46.js",
-    "runtime-main.js.map": "/crwn-market/static/js/runtime-main.8f886f46.js.map",
-    "static/js/2.ecea39ee.chunk.js": "/crwn-market/static/js/2.ecea39ee.chunk.js",
-    "static/js/2.ecea39ee.chunk.js.map": "/crwn-market/static/js/2.ecea39ee.chunk.js.map",
-    "index.html": "/crwn-market/index.html",
-    "precache-manifest.120e047fe206fe53aae7f0b629b43040.js": "/crwn-market/precache-manifest.120e047fe206fe53aae7f0b629b43040.js",
-    "service-worker.js": "/crwn-market/service-worker.js",
-    "static/css/main.5149d924.chunk.css.map": "/crwn-market/static/css/main.5149d924.chunk.css.map",
-    "static/js/2.ecea39ee.chunk.js.LICENSE.txt": "/crwn-market/static/js/2.ecea39ee.chunk.js.LICENSE.txt",
-    "static/media/4.3 crown.svg.ed28accb.svg": "/crwn-market/static/media/4.3 crown.svg.ed28accb.svg"
+    "main.css": "/static/css/main.44f90589.chunk.css",
+    "main.js": "/static/js/main.b473b94e.chunk.js",
+    "main.js.map": "/static/js/main.b473b94e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3a0313d0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3a0313d0.js.map",
+    "static/js/2.73b63b17.chunk.js": "/static/js/2.73b63b17.chunk.js",
+    "static/js/2.73b63b17.chunk.js.map": "/static/js/2.73b63b17.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c6a2e55b2a7f0c2497bb211aaaf698bf.js": "/precache-manifest.c6a2e55b2a7f0c2497bb211aaaf698bf.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.44f90589.chunk.css.map": "/static/css/main.44f90589.chunk.css.map",
+    "static/js/2.73b63b17.chunk.js.LICENSE.txt": "/static/js/2.73b63b17.chunk.js.LICENSE.txt",
+    "static/media/11.2 shopping-bag.svg.30f07071.svg": "/static/media/11.2 shopping-bag.svg.30f07071.svg",
+    "static/media/4.3 crown.svg.ed28accb.svg": "/static/media/4.3 crown.svg.ed28accb.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f886f46.js",
-    "static/js/2.ecea39ee.chunk.js",
-    "static/css/main.5149d924.chunk.css",
-    "static/js/main.393a192a.chunk.js"
+    "static/js/runtime-main.3a0313d0.js",
+    "static/js/2.73b63b17.chunk.js",
+    "static/css/main.44f90589.chunk.css",
+    "static/js/main.b473b94e.chunk.js"
   ]
 }
